@@ -39,3 +39,9 @@ c) Entropy E(a)
  #       
 d) Gain, G(A) 
           Entropy (c) - Entropy E(a) 
+ #
+ Gradient Descent
+ #
+ Gradient Descent most commonly used optimization algorithms to train machine learning models by means of minimizing errors between actual and expected results. Further, gradient descent is also used to train Neural Networks.
+          
+          
