@@ -26,3 +26,13 @@ Entropy measures the impurity or uncertainty present in the data. It is used to 
 #
 Information Gain (IG) is the most significant measure used to build a Decision Tree.
 
+#
+The formula of decision tree – 
+Information Gain 
+          I(p,n) : {(-p / p+n) log2 (p / p+n)} – {(n / p+n) log2 (n /p+n)} 
+b) Entropy (c) 
+          {(-p / p+n) log2 (p / p+n)} – {(n / p+n) log2 (n /p+n)} 
+c) Entropy E(a) 
+          ∑ pi +ni/p+n *I (pi, ni) 
+d) Gain, G(A) 
+          Entropy (c) - Entropy E(a) 
