@@ -43,5 +43,12 @@ d) Gain, G(A)
  Gradient Descent
  #
  Gradient Descent most commonly used optimization algorithms to train machine learning models by means of minimizing errors between actual and expected results. Further, gradient descent is also used to train Neural Networks.
+ #
+ ![image](https://user-images.githubusercontent.com/115775925/218644758-15001e2c-b4f6-4950-bb04-886fe984a229.png)
+ #
+ m = m — learning rate * ∂/∂m = m — α * ∂/∂m
+ #
+ b = b — learning rate * ∂/∂b = b — α * ∂/∂b
+
           
           
